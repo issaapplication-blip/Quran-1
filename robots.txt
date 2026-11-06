@@ -1,0 +1,16 @@
+User-agent: *
+Allow: /
+Disallow: /admin.html
+Disallow: /dashboard.html
+Disallow: /review.html
+Disallow: /barcode.html
+Disallow: /admin.js
+Disallow: /intake-admin.js
+Disallow: /_headers
+Disallow: /migrations/
+Disallow: /supabase/
+Disallow: /docs/
+Disallow: /_tools/
+
+
+Sitemap: https://rafiq-o6qd.onrender.com/sitemap.xml
