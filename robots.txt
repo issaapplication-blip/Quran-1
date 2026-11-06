@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+Disallow: /admin.html
+Disallow: /dashboard.html
+Disallow: /review.html
+Disallow: /barcode.html
+Disallow: /admin.js
+Disallow: /intake-admin.js
+Disallow: /_headers
+Disallow: /migrations/
+Disallow: /supabase/
+Disallow: /docs/
+Disallow: /_tools/
+Disallow: /ops/
+Disallow: /tests/
+Disallow: /.github/
+Sitemap: https://index-html.issaapplication.workers.dev/sitemap.xml
